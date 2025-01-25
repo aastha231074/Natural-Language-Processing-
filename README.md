@@ -15,7 +15,7 @@ Tokenization is the process of converting a text into smaller units called token
 
 ---
 
-## Text Preprocessing
+## 1. Text Preprocessing
 
 Text is the most unstructured form of all avaliable data, variaous type of noises are present in it. The entire process of cleaning and standardization of text, making it noise-free and ready for analysis is known as text preprocessing.
 
@@ -24,3 +24,5 @@ Text is the most unstructured form of all avaliable data, variaous type of noise
 - **Noise Removal**
 - **Lexicon Normalization**
 - **Object Standardization**
+
+#### 1.1 Noise Removal
