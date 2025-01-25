@@ -7,6 +7,7 @@ Natural Language Processing (NLP) is a field of study focused on enabling comput
 ## Key Concepts in NLP
 
 ### Tokenization
+
 Tokenization is the process of converting a text into smaller units called tokens.
 
 - **Tokens:** Words or entities present in the text.
@@ -14,4 +15,8 @@ Tokenization is the process of converting a text into smaller units called token
 
 ---
 
+---
 
+## Why is NLP important?
+
+- **Facilitates Communication** : NLP enable seamless interaction between humans and computers, powering chatbots, virtual assistants and machine translation systems.
