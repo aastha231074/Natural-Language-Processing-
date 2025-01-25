@@ -4,14 +4,12 @@ Natural Language Processing (NLP) is a field of study focused on enabling comput
 
 ---
 
-## Key Concepts in NLP
+## Libraries
 
-### Tokenization
-
-Tokenization is the process of converting a text into smaller units called tokens.
-
-- **Tokens:** Words or entities present in the text.
-- **Text Object:** A sentence, phrase, word, or an article.
+- **spaCy**
+- **Gensim**
+- **NLTK**
+- **Hugging Face**
 
 ---
 
@@ -25,4 +23,21 @@ Text is the most unstructured form of all avaliable data, variaous type of noise
 - **Lexicon Normalization**
 - **Object Standardization**
 
-#### 1.1 Noise Removal
+#### 1.1 Noise Removal in text:
+
+##### What is noise in text:
+
+- Stopwords: is, am, the, of, it etc
+- URLs
+- Links
+- Social Media Entities: mentions, hashtags
+- Punctuations
+- Industry Specific Words
+
+##### How to remove noise in text?
+
+## Learn More About NLP
+
+| S.No | Resource                                                                                                                             | Description                   |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------- |
+| 1    | [ NLP Tutorial For Beginners In Python](https://www.youtube.com/watch?v=3y2-IaBeIs0&list=PLeo1K3hjS3uuvuAXhYjV2lMEShq2UYSwX&index=2) | A comprehensive course on NLP |
