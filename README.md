@@ -15,8 +15,12 @@ Tokenization is the process of converting a text into smaller units called token
 
 ---
 
----
+## Text Preprocessing
 
-## Why is NLP important?
+Text is the most unstructured form of all avaliable data, variaous type of noises are present in it. The entire process of cleaning and standardization of text, making it noise-free and ready for analysis is known as text preprocessing.
 
-- **Facilitates Communication** : NLP enable seamless interaction between humans and computers, powering chatbots, virtual assistants and machine translation systems.
+### It is predominantly comprised of three steps:
+
+- **Noise Removal**
+- **Lexicon Normalization**
+- **Object Standardization**
